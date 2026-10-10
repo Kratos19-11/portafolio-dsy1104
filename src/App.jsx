@@ -2,11 +2,13 @@ import NavBar from './components/layout/NavBar';
 import Introduction from './components/introduction/Introduction';
 import ProjectsSection from './components/projects/ProjectsSection';
 import NewsSection from './components/news/NewsSection';
+import ContactForm from './components/contact/ContactForm';
 
 const NAV_LINKS = [
   { label: 'Introducción', href: '#introduccion' },
   { label: 'Proyectos', href: '#proyectos' },
   { label: 'Noticias', href: '#noticias' },
+  { label: 'Contacto', href: '#contacto' },
 ];
 
 const PROFILE = {
@@ -36,6 +38,7 @@ function App() {
           title="Noticias Académicas"
           category="Académico"
         />
+        <ContactForm />
       </main>
     </>
   );
