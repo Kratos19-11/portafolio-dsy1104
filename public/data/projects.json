@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Tienda Online",
+    "description": "Catálogo de productos con carrito de compras y diseño responsivo.",
+    "image": "images/projects/placeholder.svg",
+    "imageAlt": "Captura de la página principal de la Tienda Online",
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "url": "https://github.com/Kratos19-11",
+    "linkLabel": "Ver repositorio"
+  },
+  {
+    "id": 2,
+    "title": "Landing Page Responsiva",
+    "description": "Página de presentación adaptable a móvil, tablet y escritorio.",
+    "image": "images/projects/placeholder.svg",
+    "imageAlt": "Captura de la Landing Page Responsiva",
+    "technologies": ["HTML", "CSS", "Bootstrap"],
+    "url": "https://github.com/Kratos19-11",
+    "linkLabel": "Ver repositorio"
+  },
+  {
+    "id": 3,
+    "title": "Gestor de Tareas",
+    "description": "Aplicación para crear, completar y eliminar tareas usando el estado de React.",
+    "image": "images/projects/placeholder.svg",
+    "imageAlt": "Captura del Gestor de Tareas",
+    "technologies": ["React", "Bootstrap", "JSON"],
+    "url": "https://github.com/Kratos19-11",
+    "linkLabel": "Ver repositorio"
+  }
+]

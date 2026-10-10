@@ -22,6 +22,7 @@ module.exports = function (config) {
       resolve: { extensions: ['.js', '.jsx'] },
       module: {
         rules: [
+          { test: /\.m?js$/, resolve: { fullySpecified: false } },
           {
             test: /\.jsx?$/,
             exclude: /node_modules/,
