@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Aprendiendo a probar componentes con Jasmine y Karma",
+    "date": "2026-10-05",
+    "content": "Configuré el entorno de pruebas del portafolio y escribí las primeras pruebas unitarias para mis componentes de React.",
+    "category": "Tecnología"
+  },
+  {
+    "id": 2,
+    "title": "Bootstrap y diseño responsivo en React",
+    "date": "2026-09-28",
+    "content": "Combiné la grilla y las tarjetas de Bootstrap con componentes propios para que el sitio se adapte a móvil, tablet y escritorio.",
+    "category": "Tecnología"
+  },
+  {
+    "id": 3,
+    "title": "Inicio de la Experiencia de Aprendizaje 2",
+    "date": "2026-09-15",
+    "content": "Comenzó la unidad de frontend con React en Desarrollo Fullstack II, con foco en componentes, estado y pruebas unitarias.",
+    "category": "Académico"
+  },
+  {
+    "id": 4,
+    "title": "Entrega de la Evaluación Formativa 2",
+    "date": "2026-10-09",
+    "content": "Preparación del portafolio personal con proyectos, noticias y pruebas, que se publicará en GitHub Pages.",
+    "category": "Académico"
+  }
+]

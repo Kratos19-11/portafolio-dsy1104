@@ -1,6 +1,7 @@
 import NavBar from './components/layout/NavBar';
 import Introduction from './components/introduction/Introduction';
 import ProjectsSection from './components/projects/ProjectsSection';
+import NewsSection from './components/news/NewsSection';
 
 const NAV_LINKS = [
   { label: 'Introducción', href: '#introduccion' },
@@ -11,7 +12,7 @@ const NAV_LINKS = [
 const PROFILE = {
   name: 'Andeison Belandria',
   title: 'Estudiante de Desarrollo Fullstack · Duoc UC',
-  bio: 'Ingeniero en informatica y estudiante de desarrollo fullstack en Duoc UC. Me apasiona crear aplicaciones web y aprender nuevas tecnologías.',
+  bio: 'Escribe aquí tu propia biografía: qué estudias, qué tecnologías te gustan y qué buscas lograr.',
   photo: 'images/Panda_Profile.jpg',
   photoAlt: 'Foto de perfil de Andeison Belandria',
   ctaText: 'Ver mis proyectos',
@@ -25,10 +26,16 @@ function App() {
       <main className="container">
         <Introduction {...PROFILE} />
         <ProjectsSection />
-
-        <section id="noticias" className="py-5 min-vh-100">
-          <h2>Noticias</h2>
-        </section>
+        <NewsSection
+          sectionId="noticias"
+          title="Noticias de Tecnología"
+          category="Tecnología"
+        />
+        <NewsSection
+          sectionId="noticias-academicas"
+          title="Noticias Académicas"
+          category="Académico"
+        />
       </main>
     </>
   );
