@@ -15,7 +15,7 @@
     "description": "Landing page responsiva que muestra mis proyectos y habilidades como desarrollador web.",
     "image": "images/projects/portafolio.png",
     "imageAlt": "Captura de la página principal del Portafolio Personal",
-    "technologies": ["HTML", "CSS", "Bootstrap"],
+    "technologies": ["React", "Bootstrap", "Karma"],
     "url": "https://github.com/Kratos19-11/portafolio-dsy1104",
     "linkLabel": "Ver repositorio"
   },

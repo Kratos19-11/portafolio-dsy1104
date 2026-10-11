@@ -105,6 +105,7 @@ El informe de cobertura se genera en `coverage/index.html`, y la carpeta está e
 | INT-04 | Botón con texto y destino | `a.btn` muestra `ctaText` y apunta a `ctaHref` |
 | INT-05 | Botón omitido sin `ctaHref` | No existe ningún `a.btn` |
 | INT-06 | Diseño responsivo | Existen `.row` y `.col-md-4`, y la imagen tiene `img-fluid` |
+| INT-07 | Prioridad de carga de la foto | `fetchpriority="high"` y `width`/`height` de 260 en la imagen |
 
 ### 6.4 ProjectCard
 
@@ -192,7 +193,7 @@ El informe de cobertura se genera en `coverage/index.html`, y la carpeta está e
 |---|---|---|
 | Entorno | 1 | SUCCESS |
 | NavBar | 5 | SUCCESS |
-| Introduction | 6 | SUCCESS |
+| Introduction | 7 | SUCCESS |
 | ProjectCard | 8 | SUCCESS |
 | ProjectsSection | 7 | SUCCESS |
 | dataService | 2 | SUCCESS |
@@ -200,7 +201,7 @@ El informe de cobertura se genera en `coverage/index.html`, y la carpeta está e
 | NewsSection | 9 | SUCCESS |
 | ContactForm | 10 | SUCCESS |
 | Footer | 5 | SUCCESS |
-| **Total** | **57** | **57 SUCCESS, 0 FAILED** |
+| **Total** | **58** | **58 SUCCESS, 0 FAILED** |
 
 ## 8. Informe de cobertura (IE2.3.2)
 

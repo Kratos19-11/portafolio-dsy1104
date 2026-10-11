@@ -80,11 +80,11 @@ Al ejecutar `npm test` se genera el informe en `coverage/index.html` (ábrelo co
 | Métrica | Resultado |
 |---|---|
 | Sentencias | 100% |
-| Ramas | 92.64% |
+| Ramas | 93.05% |
 | Funciones | 100% |
 | Líneas | 100% |
 
-**52 pruebas** en total. El detalle de los casos y resultados esperados está en el [plan de pruebas](docs/plan-de-pruebas.md).
+**58 pruebas** en total. El detalle de los casos y resultados esperados está en el [plan de pruebas](docs/plan-de-pruebas.md).
 
 ## Estructura del proyecto
 
@@ -122,7 +122,7 @@ Cada componente tiene su archivo de pruebas (`*.spec.jsx`) en la misma carpeta.
   "image": "images/projects/mi-proyecto.png",
   "imageAlt": "Captura de mi nuevo proyecto",
   "technologies": ["React", "Bootstrap"],
-  "url": "https://github.com/usuario/mi-proyecto",
+  "url": "https://kratos19-11.github.io/portafolio-dsy1104  ",
   "linkLabel": "Ver repositorio"
 }
 ```
