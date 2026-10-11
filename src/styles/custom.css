@@ -19,3 +19,13 @@ html {
   height: 200px;
   object-fit: cover;
 }
+
+/* Accesibilidad: el enlace "Saltar al contenido" queda sobre la navbar al recibir foco */
+.skip-link {
+  z-index: 2000;
+}
+
+/* El foco que se mueve a <main> con el enlace anterior no necesita contorno */
+main:focus {
+  outline: none;
+}
