@@ -137,5 +137,5 @@ Cada componente tiene su archivo de pruebas (`*.spec.jsx`) en la misma carpeta.
 
 ## Autor
 
-**Andeison Belandria** – Estudiante de Desarrollo Fullstack, Duoc UC
+**Andeison Belandria** – Estudiante de Ingenieria en Informatica, Duoc UC
 GitHub: [@Kratos19-11](https://github.com/Kratos19-11)
