@@ -2,7 +2,7 @@
 
 Portafolio web desarrollado con **React** y **Bootstrap** para la asignatura **DSY1104 – Desarrollo Fullstack II** (Duoc UC), Evaluación Formativa N° 2. Incluye pruebas unitarias con **Jasmine y Karma** e informe de cobertura.
 
-🔗 **Sitio publicado:** [pendiente: agregar el enlace de GitHub Pages]
+🔗 **Sitio publicado:** [https://kratos19-11.github.io/portafolio-dsy1104/](https://kratos19-11.github.io/portafolio-dsy1104/)
 
 ## Capturas de pantalla
 
