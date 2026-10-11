@@ -14,7 +14,7 @@ const NAV_LINKS = [
 const PROFILE = {
   name: 'Andeison Belandria',
   title: 'Estudiante de Desarrollo Fullstack · Duoc UC',
-  bio: 'Escribe aquí tu propia biografía: qué estudias, qué tecnologías te gustan y qué buscas lograr.',
+  bio: 'Soy un estudiante apasionado por la tecnología y el desarrollo web. Me especializo en crear soluciones innovadoras y eficientes, siempre buscando aprender y mejorar mis habilidades.',
   photo: 'images/Panda_Profile.jpg',
   photoAlt: 'Foto de perfil de Andeison Belandria',
   ctaText: 'Ver mis proyectos',

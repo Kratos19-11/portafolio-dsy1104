@@ -3,20 +3,20 @@
     "id": 1,
     "title": "Tienda Online",
     "description": "Catálogo de productos con carrito de compras y diseño responsivo.",
-    "image": "images/projects/placeholder.svg",
+    "image": "images/projects/tiendaZMART.png",
     "imageAlt": "Captura de la página principal de la Tienda Online",
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "url": "https://github.com/Kratos19-11",
+    "url": "https://github.com/Kratos19-11/tiendaZMART",
     "linkLabel": "Ver repositorio"
   },
   {
     "id": 2,
-    "title": "Landing Page Responsiva",
-    "description": "Página de presentación adaptable a móvil, tablet y escritorio.",
-    "image": "images/projects/placeholder.svg",
-    "imageAlt": "Captura de la Landing Page Responsiva",
+    "title": "Portafolio Personal",
+    "description": "Landing page responsiva que muestra mis proyectos y habilidades como desarrollador web.",
+    "image": "images/projects/portafolio.png",
+    "imageAlt": "Captura de la página principal del Portafolio Personal",
     "technologies": ["HTML", "CSS", "Bootstrap"],
-    "url": "https://github.com/Kratos19-11",
+    "url": "https://github.com/Kratos19-11/portafolio-dsy1104",
     "linkLabel": "Ver repositorio"
   },
   {
