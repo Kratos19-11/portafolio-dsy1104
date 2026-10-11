@@ -21,7 +21,7 @@ const PROFILE = {
   title: 'Estudiante de Desarrollo Fullstack · Duoc UC',
   bio: 'Estudiante de Ingenieria en Informatica · Duoc UC',
   bio: 'Soy un estudiante apasionado por la tecnología y el desarrollo web. Me especializo en crear soluciones innovadoras y eficientes, siempre buscando aprender y mejorar mis habilidades.',
-  photo: 'images/Panda_Profile.jpg',
+  photo: 'images/Panda_Profile.webp',
   photoAlt: 'Foto de perfil de Andeison Belandria',
   ctaText: 'Ver mis proyectos',
   ctaHref: '#proyectos',

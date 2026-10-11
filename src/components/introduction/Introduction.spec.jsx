@@ -65,4 +65,12 @@ describe('Introduction', () => {
     expect(container.querySelector('.col-md-4')).not.toBeNull();
     expect(container.querySelector('img').classList.contains('img-fluid')).toBeTrue();
   });
+
+  it('prioriza la carga de la foto y reserva su espacio', () => {
+    render(props);
+    const img = container.querySelector('img');
+    expect(img.getAttribute('fetchpriority')).toBe('high');
+    expect(img.getAttribute('width')).toBe('260');
+    expect(img.getAttribute('height')).toBe('260');
+  });
 });

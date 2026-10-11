@@ -14,10 +14,13 @@ function Introduction({ name, title, bio, photo, photoAlt, ctaText, ctaHref }) {
       <div className="row align-items-center g-4">
         <div className="col-12 col-md-4 text-center">
           <img
-            src={photo}
-            alt={photoAlt || `Foto de ${name}`}
-            className="img-fluid rounded-circle shadow intro-photo"
-          />
+              src={photo}
+              alt={photoAlt || `Foto de ${name}`}
+              className="img-fluid rounded-circle shadow intro-photo"
+              width="260"
+              height="260"
+              fetchPriority="high"
+            />
         </div>
 
         <div className="col-12 col-md-8 text-center text-md-start">
